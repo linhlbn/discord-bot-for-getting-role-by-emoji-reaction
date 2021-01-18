@@ -13,5 +13,5 @@
 terminal: ```node . ```
 
 #### result
-
-<a href = "https://media.discordapp.net/attachments/506487127467622400/800710615214718996/unknown.png"> click </a>
+* join my dis sv:   https://discord.gg/nZqbz6cSWt
+* test the result: <a href = "https://media.discordapp.net/attachments/506487127467622400/800710615214718996/unknown.png"> click </a>
