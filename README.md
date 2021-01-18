@@ -1,1 +1,17 @@
-# bot-for-getting-role-by-emoji-reaction
+# Bot for getting role by emoji reaction
+
+<br>
+
+## Hello brah
+
+| Session | Description |
+| ----------- | ----------- |
+| Set up | how to run app |
+| Result | brah |
+
+#### Set up
+terminal: ```node . ```
+
+#### result
+
+<a href = "https://media.discordapp.net/attachments/506487127467622400/800710615214718996/unknown.png"> click </a>
